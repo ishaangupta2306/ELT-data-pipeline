@@ -53,13 +53,18 @@ Run the Singer Tap and pipe the output to the CSV Target. The final state by CSV
 tap-mysql --config tap_mysql_config.json --catalog catalog.json & target-csv --config target_csv_config.json >> state.json
 ```
 
+![Subsampling](./resources/csv-data-census.jpg)
+![Subsampling](./resources/csv-data-state-fact.jpg)
+
+
+
 
 Extract the last line of state.json and save it into state.json.tmp. And then rename the newly created state.json.tmp as state.json
 ```bash
 Get-Content state.json | Select-Object Last 1 | Set-Content state.json.tmp | move state.json.tmp state.json
 ```
 
-The state.json file after the above command run
+![Subsampling](./resources/csv-state.jpg)
 
 
 #### PostgreSQL Target
@@ -69,6 +74,8 @@ $ virtualenv venv
 $ pip install target-csv
 ```
 Need to install PostgreSQL database. (Reference: https://www.postgresql.org/download/ Links to an external site.).
+![Subsampling](./resources/pgadmin-running.jpg)
+
 
 ##### Edit target's config file (target_postgres_config.json) to include necessary credentials or parameters.
 ```bash
@@ -81,3 +88,13 @@ Need to install PostgreSQL database. (Reference: https://www.postgresql.org/down
   "postgres_schema": "mytapname"
 }
 ```
+
+![Subsampling](./resources/pgadmin-data-census.jpg)
+![Subsampling](./resources/pgadmin-data-state-fact.jpg)
+
+Extract the last line of state.json and save it into state.json.tmp. And then rename the newly created state.json.tmp as state.json
+```bash
+Get-Content state.json | Select-Object Last 1 | Set-Content state.json.tmp | move state.json.tmp state.json
+```
+![Subsampling](./resources/pgadmin-state.jpg)
+
