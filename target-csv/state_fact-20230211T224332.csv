@@ -1,0 +1,52 @@
+country	fips_state	name	census_region_name	occupied	type	census_region	circuit_court	abbreviation	census_division_name	id	standard_federal_region	sort	notes	assoc_press	census_division	status
+USA	17	Illinois	Midwest	occupied	state	2	7	IL	East North Central	13	V	10		Ill.	3	current
+USA	34	New Jersey	Northeast	occupied	state	1	3	NJ	Mid-Atlantic	30	II	10		N.J.	2	current
+USA	38	North Dakota	Midwest	occupied	state	2	8	ND	West North Central	34	VIII	10		N.D.	4	current
+USA	41	Oregon	West	occupied	state	4	9	OR	Pacific	37	X	10		Ore.	9	current
+USA	11	Washington DC	South	occupied	capitol	3	D.C.	DC	South Atlantic	51	III	10			5	current
+USA	55	Wisconsin	Midwest	occupied	state	2	7	WI	East North Central	49	V	10		Wis.	3	current
+USA	4	Arizona	West	occupied	state	4	9	AZ	Mountain	3	IX	10		Ariz.	8	current
+USA	5	Arkansas	South	occupied	state	3	8	AR	West South Central	4	VI	10		Ark.	7	current
+USA	8	Colorado	West	occupied	state	4	10	CO	Mountain	6	VIII	10		Colo.	8	current
+USA	15	Hawaii	West	occupied	state	4	9	HI	Pacific	11	IX	10		Hawaii	9	current
+USA	20	Kansas	Midwest	occupied	state	2	10	KS	West North Central	16	VII	10		Kan.	4	current
+USA	22	Louisiana	South	occupied	state	3	5	LA	West South Central	18	VI	10		La.	7	current
+USA	30	Montana	West	occupied	state	4	9	MT	Mountain	26	VIII	10		Mont.	8	current
+USA	31	Nebraska	Midwest	occupied	state	2	8	NE	West North Central	27	VII	10		Nebr.	4	current
+USA	40	Oklahoma	South	occupied	state	3	10	OK	West South Central	36	VI	10		Okla.	7	current
+USA	16	Idaho	West	occupied	state	4	9	ID	Mountain	12	X	10		Idaho	8	current
+USA	25	Massachusetts	Northeast	occupied	state	1	1	MA	New England	21	I	10		Mass.	1	current
+USA	26	Michigan	Midwest	occupied	state	2	6	MI	East North Central	22	V	10		Mich.	3	current
+USA	29	Missouri	Midwest	occupied	state	2	8	MO	West North Central	25	VII	10		Mo.	4	current
+USA	37	North Carolina	South	occupied	state	3	4	NC	South Atlantic	33	IV	10		N.C.	5	current
+USA	39	Ohio	Midwest	occupied	state	2	6	OH	East North Central	35	V	10		Ohio	3	current
+USA	44	Rhode Island	Northeast	occupied	state	1	1	RI	New England	39	I	10		R.I.	1	current
+USA	45	South Carolina	South	occupied	state	3	4	SC	South Atlantic	40	IV	10		S.C.	5	current
+USA	56	Wyoming	West	occupied	state	4	10	WY	Mountain	50	VIII	10		Wyo.	8	current
+USA	18	Indiana	Midwest	occupied	state	2	7	IN	East North Central	14	V	10		Ind.	3	current
+USA	42	Pennsylvania	Northeast	occupied	state	1	3	PA	Mid-Atlantic	38	III	10		Pa.	2	current
+USA	46	South Dakota	Midwest	occupied	state	2	8	SD	West North Central	41	VIII	10		S.D.	4	current
+USA	47	Tennessee	South	occupied	state	3	6	TN	East South Central	42	IV	10		Tenn.	6	current
+USA	50	Vermont	Northeast	occupied	state	1	2	VT	New England	45	I	10		Vt.	1	current
+USA	2	Alaska	West	occupied	state	4	9	AK	Pacific	2	X	10		Alaska	9	current
+USA	10	Delaware	South	occupied	state	3	3	DE	South Atlantic	8	III	10		Del.	5	current
+USA	21	Kentucky	South	occupied	state	3	6	KY	East South Central	17	IV	10		Ky.	6	current
+USA	28	Mississippi	South	occupied	state	3	5	MS	East South Central	24	IV	10		Miss.	6	current
+USA	51	Virginia	South	occupied	state	3	4	VA	South Atlantic	46	III	10		Va.	5	current
+USA	12	Florida	South	occupied	state	3	11	FL	South Atlantic	9	IV	10		Fla.	5	current
+USA	24	Maryland	South	occupied	state	3	4	MD	South Atlantic	20	III	10		Md.	5	current
+USA	32	Nevada	West	occupied	state	4	9	NV	Mountain	28	IX	10		Nev.	8	current
+USA	53	Washington	West	occupied	state	4	9	WA	Pacific	47	X	10		Wash.	9	current
+USA	6	California	West	occupied	state	4	9	CA	Pacific	5	IX	10		Calif.	9	current
+USA	9	Connecticut	Northeast	occupied	state	1	2	CT	New England	7	I	10		Conn.	1	current
+USA	13	Georgia	South	occupied	state	3	11	GA	South Atlantic	10	IV	10		Ga.	5	current
+USA	19	Iowa	Midwest	occupied	state	2	8	IA	West North Central	15	VII	10		Iowa	4	current
+USA	23	Maine	Northeast	occupied	state	1	1	ME	New England	19	I	10		Maine	1	current
+USA	33	New Hampshire	Northeast	occupied	state	1	1	NH	New England	29	I	10		N.H.	1	current
+USA	35	New Mexico	West	occupied	state	4	10	NM	Mountain	31	VI	10		N.M.	8	current
+USA	48	Texas	South	occupied	state	3	5	TX	West South Central	43	VI	10		Texas	7	current
+USA	1	Alabama	South	occupied	state	3	11	AL	East South Central	1	IV	10		Ala.	6	current
+USA	27	Minnesota	Midwest	occupied	state	2	8	MN	West North Central	23	V	10		Minn.	4	current
+USA	36	New York	Northeast	occupied	state	1	2	NY	Mid-Atlantic	32	II	10		N.Y.	2	current
+USA	49	Utah	West	occupied	state	4	10	UT	Mountain	44	VIII	10		Utah	8	current
+USA	54	West Virginia	South	occupied	state	3	4	WV	South Atlantic	48	III	10		W.Va.	5	current

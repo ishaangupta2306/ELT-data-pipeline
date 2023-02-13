@@ -1,0 +1,15 @@
+{
+  "postgres_host": "localhost",
+  "postgres_port": 5434,
+  "postgres_database": "my_analytics",
+  "postgres_username": "postgres",
+  "postgres_password": "<password>",
+  "postgres_schema": "mytapname",
+  "schema": "census_db", 
+  "host":"localhost",
+  "dbname": "census_db",
+  "user":"postgres",
+  "password": "<password>",
+  "port": 5434
+
+}

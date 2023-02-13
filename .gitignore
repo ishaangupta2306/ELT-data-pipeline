@@ -1,0 +1,7 @@
+# Virtualenv related
+bin/
+include/
+pip-selfcheck.json
+target-postgres/venv
+mySQLTap/venv
+target-csv/venv
