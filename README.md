@@ -1,6 +1,10 @@
 # ELT-data-pipeline
 A data pipeline using Singer (an open-sourced ETL) for MySQL DB to CSV and PostgreSQL
 
+![MySQL](https://avatars.githubusercontent.com/u/2452804?s=200&v=4)
+![PostgreSQL](https://avatars.githubusercontent.com/u/177543?s=200&v=4)
+![Singer](https://avatars.githubusercontent.com/u/25538203?s=200&v=4)
+
 
 ### Install
 
